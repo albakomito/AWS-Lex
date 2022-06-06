@@ -41,5 +41,5 @@ In this section we:
 *
 ## Table of Cryptocurrencies (Ln 24-25) 
 In this section we: 
-* Create a data table with tradable cryptos, using our clustered_df as our input (Ln 24).
+* Create a data table with tradable cryptos, using our clustered_df as our input (Ln 24).Please refer to Ln24.pdf for the visualization. 
 * Print the total number (532) of unique tradable cryptocurrencies (Ln 25).
